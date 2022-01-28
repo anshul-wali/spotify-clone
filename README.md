@@ -1,3 +1,7 @@
+This Project is a clone of Spotify Weekly Discovery playlist . We can also see all the playlists of user who is logged in.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
