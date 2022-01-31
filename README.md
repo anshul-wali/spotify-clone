@@ -1,6 +1,7 @@
 This Project is a clone of Spotify Weekly Discovery playlist . We can also see all the playlists of user who is logged in.
 
 ## Spotify Clone
+![](images/spotify.jpg)
 
 # Getting Started with Create React App
 
