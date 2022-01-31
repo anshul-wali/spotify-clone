@@ -4,6 +4,11 @@ This Project is a clone of Spotify Weekly Discovery playlist . We can also see a
 ![](images/spotify.jpg) <br>
 ![](images/login.jpg)
 
+## Features
+📌Login
+📌 Discover Weekly
+
+
 ## Technology Stack
 📌HTML <br>
 📌CSS <br>
