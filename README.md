@@ -2,7 +2,7 @@ This Project is a clone of Spotify Weekly Discovery playlist . We can also see a
 
 ## Spotify Clone
 ![](images/spotify.jpg) <br>
-## ![](images/login.jpg)
+![](images/login.jpg)
 
 ## Technology Stack
 📌HTML <br>
