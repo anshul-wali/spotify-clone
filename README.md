@@ -2,6 +2,7 @@ This Project is a clone of Spotify Weekly Discovery playlist . We can also see a
 
 ## Spotify Clone
 ![](images/spotify.jpg)
+![](images/login.jpg)
 
 # Getting Started with Create React App
 
