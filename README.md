@@ -5,13 +5,15 @@
 ## Features
 📌 Login <br>
 📌 Discover Weekly <br>
-📌 User Playlists
+📌 User Playlists 
 
 
 ## Technology Stack
-📌HTML <br>
-📌CSS <br>
-📌Reactjs
+📌 HTML <br>
+📌 CSS <br>
+📌 Reactjs <br>
+
+🚀 Used SpotifyWebAPI 
 
 
 
